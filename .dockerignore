@@ -1,0 +1,5 @@
+*
+!Dockerfile
+!requirements.txt
+!icap_server/
+!icap_server/*.py
